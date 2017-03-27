@@ -20,7 +20,7 @@
         "node_modules"
     ],
     "dependencies": {
-        "json-editor": "^0.7.28",
+        "json-editor": "git@github.com:AustinEast/json-editor.git",
         "angular": "1.*"
     }
 }
